@@ -23,8 +23,8 @@ export const Providers = ({ children }: { children: React.ReactNode }) => {
       if (prev.find(c => c.id === college.id)) {
         return prev.filter(c => c.id !== college.id);
       }
-      if (prev.length >= 3) {
-        alert("You can only compare up to 3 colleges at a time.");
+      if (prev.length >= 5) {
+        alert("You can only compare up to 5 colleges at a time.");
         return prev;
       }
       return [...prev, college];

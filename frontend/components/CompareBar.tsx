@@ -13,7 +13,7 @@ export default function CompareBar() {
   return (
     <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 shadow-[0_-10px_40px_rgba(0,0,0,0.1)] p-4 flex justify-between items-center z-50">
       <div className="flex gap-4 items-center">
-        <span className="font-bold text-gray-700">Compare ({compareColleges.length}/3):</span>
+        <span className="font-bold text-gray-700">Compare ({compareColleges.length}/5):</span>
         <div className="flex gap-3">
           {compareColleges.map((c: any) => (
             <div key={c.id} className="bg-blue-50 border border-blue-200 rounded-lg px-3 py-2 flex items-center gap-2">
