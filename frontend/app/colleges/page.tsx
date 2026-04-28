@@ -52,7 +52,7 @@ export default function CollegesPage() {
               placeholder="Search colleges..." 
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              className="w-full pl-10 pr-4 py-3 rounded-2xl border border-slate-200 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm"
+              className="w-full pl-10 pr-4 py-3 rounded-2xl border border-slate-200 bg-white text-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm"
             />
           </div>
           <div className="relative">
@@ -60,7 +60,7 @@ export default function CollegesPage() {
             <select 
               value={location}
               onChange={(e) => setLocation(e.target.value)}
-              className="pl-10 pr-8 py-3 rounded-2xl border border-slate-200 bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm appearance-none"
+              className="pl-10 pr-8 py-3 rounded-2xl border border-slate-200 bg-white text-slate-900 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm appearance-none"
             >
               <option value="">All Locations</option>
               <option value="Mumbai">Mumbai</option>

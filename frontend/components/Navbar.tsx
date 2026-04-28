@@ -27,7 +27,10 @@ export default function Navbar() {
             <button onClick={handleLogout} className="bg-red-50 text-red-600 px-4 py-2 rounded-full font-medium hover:bg-red-100 transition">Logout</button>
           </>
         ) : (
-          <Link href="/login" className="bg-blue-600 text-white px-5 py-2 rounded-full font-medium hover:bg-blue-700 transition">Login</Link>
+          <>
+            <Link href="/login" className="text-gray-600 hover:text-blue-600 font-medium px-4">Login</Link>
+            <Link href="/register" className="bg-blue-600 text-white px-5 py-2 rounded-full font-medium hover:bg-blue-700 transition shadow-md">Sign Up</Link>
+          </>
         )}
       </div>
     </nav>
