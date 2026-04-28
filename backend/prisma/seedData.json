@@ -1,0 +1,807 @@
+[
+  {
+    "name": "IIT Bombay",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "fees": 1200000,
+    "rating": 4.9,
+    "placement_percent": 98,
+    "established_year": 1958,
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electrical",
+      "B.Tech in Mechanical",
+      "B.Tech in Civil"
+    ],
+    "description": "IIT Bombay is a globally recognized institution known for its excellence in engineering education and research."
+  },
+  {
+    "name": "IIT Delhi",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "fees": 1100000,
+    "rating": 4.8,
+    "placement_percent": 97,
+    "established_year": 1961,
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electrical",
+      "B.Tech in Mechanical",
+      "B.Tech in Civil"
+    ],
+    "description": "IIT Delhi is a globally recognized institution known for its excellence in engineering education and research."
+  },
+  {
+    "name": "IIT Madras",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "fees": 1050000,
+    "rating": 4.9,
+    "placement_percent": 96,
+    "established_year": 1959,
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electrical",
+      "B.Tech in Mechanical",
+      "B.Tech in Civil"
+    ],
+    "description": "IIT Madras is a globally recognized institution known for its excellence in engineering education and research."
+  },
+  {
+    "name": "IIT Kanpur",
+    "location": "Kanpur",
+    "state": "Uttar Pradesh",
+    "fees": 1150000,
+    "rating": 4.8,
+    "placement_percent": 95,
+    "established_year": 1959,
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electrical",
+      "B.Tech in Mechanical",
+      "B.Tech in Civil"
+    ],
+    "description": "IIT Kanpur is a globally recognized institution known for its excellence in engineering education and research."
+  },
+  {
+    "name": "IIT Kharagpur",
+    "location": "Kharagpur",
+    "state": "West Bengal",
+    "fees": 1000000,
+    "rating": 4.7,
+    "placement_percent": 94,
+    "established_year": 1951,
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electrical",
+      "B.Tech in Mechanical",
+      "B.Tech in Civil"
+    ],
+    "description": "IIT Kharagpur is a globally recognized institution known for its excellence in engineering education and research."
+  },
+  {
+    "name": "IIT Roorkee",
+    "location": "Roorkee",
+    "state": "Uttarakhand",
+    "fees": 1057323,
+    "rating": 4.5,
+    "placement_percent": 95,
+    "established_year": 1963,
+    "description": "IIT Roorkee is a premier technical institution located in Roorkee, Uttarakhand. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IIT Guwahati",
+    "location": "Guwahati",
+    "state": "Assam",
+    "fees": 1073883,
+    "rating": 4.5,
+    "placement_percent": 99,
+    "established_year": 1978,
+    "description": "IIT Guwahati is a premier technical institution located in Guwahati, Assam. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IIT Hyderabad",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "fees": 826063,
+    "rating": 4.6,
+    "placement_percent": 95,
+    "established_year": 1982,
+    "description": "IIT Hyderabad is a premier technical institution located in Hyderabad, Telangana. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "NIT Trichy",
+    "location": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "fees": 942626,
+    "rating": 4.6,
+    "placement_percent": 86,
+    "established_year": 1975,
+    "description": "NIT Trichy is a premier technical institution located in Tiruchirappalli, Tamil Nadu. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "NIT Surathkal",
+    "location": "Surathkal",
+    "state": "Karnataka",
+    "fees": 855591,
+    "rating": 4.3,
+    "placement_percent": 90,
+    "established_year": 1960,
+    "description": "NIT Surathkal is a premier technical institution located in Surathkal, Karnataka. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "NIT Warangal",
+    "location": "Warangal",
+    "state": "Telangana",
+    "fees": 926913,
+    "rating": 4.2,
+    "placement_percent": 99,
+    "established_year": 2001,
+    "description": "NIT Warangal is a premier technical institution located in Warangal, Telangana. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "NIT Rourkela",
+    "location": "Rourkela",
+    "state": "Odisha",
+    "fees": 947597,
+    "rating": 4.4,
+    "placement_percent": 85,
+    "established_year": 1996,
+    "description": "NIT Rourkela is a premier technical institution located in Rourkela, Odisha. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "NIT Calicut",
+    "location": "Calicut",
+    "state": "Kerala",
+    "fees": 826918,
+    "rating": 3.9,
+    "placement_percent": 89,
+    "established_year": 1941,
+    "description": "NIT Calicut is a premier technical institution located in Calicut, Kerala. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "BITS Pilani",
+    "location": "Pilani",
+    "state": "Rajasthan",
+    "fees": 1398625,
+    "rating": 4.4,
+    "placement_percent": 86,
+    "established_year": 1942,
+    "description": "BITS Pilani is a premier technical institution located in Pilani, Rajasthan. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "VIT Vellore",
+    "location": "Vellore",
+    "state": "Tamil Nadu",
+    "fees": 2015220,
+    "rating": 4.7,
+    "placement_percent": 82,
+    "established_year": 2001,
+    "description": "VIT Vellore is a premier technical institution located in Vellore, Tamil Nadu. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "location": "Manipal",
+    "state": "Karnataka",
+    "fees": 1663511,
+    "rating": 4.5,
+    "placement_percent": 85,
+    "established_year": 1998,
+    "description": "Manipal Institute of Technology is a premier technical institution located in Manipal, Karnataka. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "location": "Chennai",
+    "state": "Tamil Nadu",
+    "fees": 1344678,
+    "rating": 4.5,
+    "placement_percent": 81,
+    "established_year": 1945,
+    "description": "SRM Institute of Science and Technology is a premier technical institution located in Chennai, Tamil Nadu. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Thapar Institute of Engineering and Technology",
+    "location": "Patiala",
+    "state": "Punjab",
+    "fees": 1559717,
+    "rating": 4.1,
+    "placement_percent": 82,
+    "established_year": 1959,
+    "description": "Thapar Institute of Engineering and Technology is a premier technical institution located in Patiala, Punjab. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Delhi Technological University (DTU)",
+    "location": "Delhi",
+    "state": "Delhi",
+    "fees": 1106651,
+    "rating": 4.2,
+    "placement_percent": 95,
+    "established_year": 1964,
+    "description": "Delhi Technological University (DTU) is a premier technical institution located in Delhi, Delhi. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "NSUT Delhi",
+    "location": "Delhi",
+    "state": "Delhi",
+    "fees": 820325,
+    "rating": 4,
+    "placement_percent": 85,
+    "established_year": 2002,
+    "description": "NSUT Delhi is a premier technical institution located in Delhi, Delhi. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IIIT Hyderabad",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "fees": 827993,
+    "rating": 3.9,
+    "placement_percent": 88,
+    "established_year": 1980,
+    "description": "IIIT Hyderabad is a premier technical institution located in Hyderabad, Telangana. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IIIT Delhi",
+    "location": "Delhi",
+    "state": "Delhi",
+    "fees": 1031899,
+    "rating": 4,
+    "placement_percent": 99,
+    "established_year": 1969,
+    "description": "IIIT Delhi is a premier technical institution located in Delhi, Delhi. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IIIT Allahabad",
+    "location": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "fees": 1197508,
+    "rating": 4.6,
+    "placement_percent": 90,
+    "established_year": 1940,
+    "description": "IIIT Allahabad is a premier technical institution located in Prayagraj, Uttar Pradesh. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IIIT Bangalore",
+    "location": "Bangalore",
+    "state": "Karnataka",
+    "fees": 1168526,
+    "rating": 3.9,
+    "placement_percent": 96,
+    "established_year": 2003,
+    "description": "IIIT Bangalore is a premier technical institution located in Bangalore, Karnataka. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "RV College of Engineering, Bangalore",
+    "location": "Bangalore",
+    "state": "Karnataka",
+    "fees": 1531278,
+    "rating": 4.2,
+    "placement_percent": 84,
+    "established_year": 1970,
+    "description": "RV College of Engineering, Bangalore is a premier technical institution located in Bangalore, Karnataka. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "BMS College of Engineering",
+    "location": "Bangalore",
+    "state": "Karnataka",
+    "fees": 1632003,
+    "rating": 4.5,
+    "placement_percent": 88,
+    "established_year": 1963,
+    "description": "BMS College of Engineering is a premier technical institution located in Bangalore, Karnataka. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "MS Ramaiah Institute of Technology",
+    "location": "Bangalore",
+    "state": "Karnataka",
+    "fees": 1309929,
+    "rating": 4.5,
+    "placement_percent": 82,
+    "established_year": 1949,
+    "description": "MS Ramaiah Institute of Technology is a premier technical institution located in Bangalore, Karnataka. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "PSG College of Technology",
+    "location": "Coimbatore",
+    "state": "Tamil Nadu",
+    "fees": 1610559,
+    "rating": 4.7,
+    "placement_percent": 94,
+    "established_year": 1952,
+    "description": "PSG College of Technology is a premier technical institution located in Coimbatore, Tamil Nadu. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "College of Engineering, Pune (COEP)",
+    "location": "Pune",
+    "state": "Maharashtra",
+    "fees": 990190,
+    "rating": 4.4,
+    "placement_percent": 98,
+    "established_year": 1969,
+    "description": "College of Engineering, Pune (COEP) is a premier technical institution located in Pune, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "VJTI Mumbai",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "fees": 864413,
+    "rating": 4,
+    "placement_percent": 87,
+    "established_year": 1951,
+    "description": "VJTI Mumbai is a premier technical institution located in Mumbai, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Sardar Patel Institute of Technology",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "fees": 1975278,
+    "rating": 4.6,
+    "placement_percent": 78,
+    "established_year": 1992,
+    "description": "Sardar Patel Institute of Technology is a premier technical institution located in Mumbai, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "KJ Somaiya College of Engineering",
+    "location": "Mumbai",
+    "state": "Maharashtra",
+    "fees": 1558751,
+    "rating": 4.4,
+    "placement_percent": 79,
+    "established_year": 1952,
+    "description": "KJ Somaiya College of Engineering is a premier technical institution located in Mumbai, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "PICT Pune",
+    "location": "Pune",
+    "state": "Maharashtra",
+    "fees": 1651595,
+    "rating": 4.6,
+    "placement_percent": 84,
+    "established_year": 1992,
+    "description": "PICT Pune is a premier technical institution located in Pune, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "VIT Pune",
+    "location": "Pune",
+    "state": "Maharashtra",
+    "fees": 1830166,
+    "rating": 4.4,
+    "placement_percent": 94,
+    "established_year": 1980,
+    "description": "VIT Pune is a premier technical institution located in Pune, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "MIT WPU Pune",
+    "location": "Pune",
+    "state": "Maharashtra",
+    "fees": 1231473,
+    "rating": 3.9,
+    "placement_percent": 77,
+    "established_year": 1984,
+    "description": "MIT WPU Pune is a premier technical institution located in Pune, Maharashtra. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "LD College of Engineering",
+    "location": "Ahmedabad",
+    "state": "Gujarat",
+    "fees": 1613508,
+    "rating": 4.6,
+    "placement_percent": 77,
+    "established_year": 1950,
+    "description": "LD College of Engineering is a premier technical institution located in Ahmedabad, Gujarat. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Nirma University",
+    "location": "Ahmedabad",
+    "state": "Gujarat",
+    "fees": 2031329,
+    "rating": 4.6,
+    "placement_percent": 77,
+    "established_year": 1968,
+    "description": "Nirma University is a premier technical institution located in Ahmedabad, Gujarat. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "DA-IICT Gandhinagar",
+    "location": "Gandhinagar",
+    "state": "Gujarat",
+    "fees": 1776878,
+    "rating": 4.7,
+    "placement_percent": 91,
+    "established_year": 1951,
+    "description": "DA-IICT Gandhinagar is a premier technical institution located in Gandhinagar, Gujarat. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Jadavpur University",
+    "location": "Kolkata",
+    "state": "West Bengal",
+    "fees": 1052093,
+    "rating": 3.8,
+    "placement_percent": 97,
+    "established_year": 1985,
+    "description": "Jadavpur University is a premier technical institution located in Kolkata, West Bengal. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "IEM Kolkata",
+    "location": "Kolkata",
+    "state": "West Bengal",
+    "fees": 2162360,
+    "rating": 4.2,
+    "placement_percent": 88,
+    "established_year": 1948,
+    "description": "IEM Kolkata is a premier technical institution located in Kolkata, West Bengal. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Heritage Institute of Technology",
+    "location": "Kolkata",
+    "state": "West Bengal",
+    "fees": 2169224,
+    "rating": 4.5,
+    "placement_percent": 77,
+    "established_year": 1977,
+    "description": "Heritage Institute of Technology is a premier technical institution located in Kolkata, West Bengal. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "KIIT Bhubaneswar",
+    "location": "Bhubaneswar",
+    "state": "Odisha",
+    "fees": 1178922,
+    "rating": 3.8,
+    "placement_percent": 92,
+    "established_year": 1973,
+    "description": "KIIT Bhubaneswar is a premier technical institution located in Bhubaneswar, Odisha. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "ITER Bhubaneswar",
+    "location": "Bhubaneswar",
+    "state": "Odisha",
+    "fees": 1311104,
+    "rating": 4.2,
+    "placement_percent": 87,
+    "established_year": 1945,
+    "description": "ITER Bhubaneswar is a premier technical institution located in Bhubaneswar, Odisha. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "UPES Dehradun",
+    "location": "Dehradun",
+    "state": "Uttarakhand",
+    "fees": 1816731,
+    "rating": 4.5,
+    "placement_percent": 86,
+    "established_year": 1979,
+    "description": "UPES Dehradun is a premier technical institution located in Dehradun, Uttarakhand. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Graphic Era University",
+    "location": "Dehradun",
+    "state": "Uttarakhand",
+    "fees": 1957727,
+    "rating": 4.3,
+    "placement_percent": 89,
+    "established_year": 1991,
+    "description": "Graphic Era University is a premier technical institution located in Dehradun, Uttarakhand. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1555436169-20e93ea9a7ff?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Chandigarh University",
+    "location": "Chandigarh",
+    "state": "Punjab",
+    "fees": 2171117,
+    "rating": 4.4,
+    "placement_percent": 78,
+    "established_year": 2001,
+    "description": "Chandigarh University is a premier technical institution located in Chandigarh, Punjab. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Chitkara University",
+    "location": "Chandigarh",
+    "state": "Punjab",
+    "fees": 1458213,
+    "rating": 4.8,
+    "placement_percent": 77,
+    "established_year": 1982,
+    "description": "Chitkara University is a premier technical institution located in Chandigarh, Punjab. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1595113316349-9441215b809a?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "LPU Jalandhar",
+    "location": "Jalandhar",
+    "state": "Punjab",
+    "fees": 2166087,
+    "rating": 4,
+    "placement_percent": 77,
+    "established_year": 1983,
+    "description": "LPU Jalandhar is a premier technical institution located in Jalandhar, Punjab. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Amity University, Noida",
+    "location": "Noida",
+    "state": "Uttar Pradesh",
+    "fees": 1513345,
+    "rating": 4.7,
+    "placement_percent": 93,
+    "established_year": 1994,
+    "description": "Amity University, Noida is a premier technical institution located in Noida, Uttar Pradesh. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  },
+  {
+    "name": "Jaypee Institute of Information Technology",
+    "location": "Noida",
+    "state": "Uttar Pradesh",
+    "fees": 1918282,
+    "rating": 4.2,
+    "placement_percent": 81,
+    "established_year": 1977,
+    "description": "Jaypee Institute of Information Technology is a premier technical institution located in Noida, Uttar Pradesh. It offers a wide range of undergraduate and postgraduate programs.",
+    "image_url": "https://images.unsplash.com/photo-1562774053-701939374585?q=80&w=800&auto=format&fit=crop",
+    "courses": [
+      "B.Tech in Computer Science",
+      "B.Tech in Electronics",
+      "B.Tech in Mechanical"
+    ]
+  }
+]
