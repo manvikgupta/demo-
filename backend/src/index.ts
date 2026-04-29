@@ -10,7 +10,10 @@ dotenv.config();
 const app = express();
 export const prisma = new PrismaClient();
 
-app.use(cors());
+app.use(cors({
+     origin: ['https://demo-chi-tan.vercel.app', 'http://localhost:3000'],
+     credentials: true
+   }));
 app.use(express.json());
 
 const JWT_SECRET = process.env.JWT_SECRET || 'supersecret_jwt_key_here';
